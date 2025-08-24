@@ -31,4 +31,4 @@
 - CSS3  
 
 ## 📸 Preview
-![UI Preview](Thumbnails/screenshot.png)
+![UI Preview](./Thumbnails/screenshot.png)
