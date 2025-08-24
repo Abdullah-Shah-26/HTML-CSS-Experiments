@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #0f0f0f;
+  padding-left: 100px; 
+  padding-top: 56px;
+}
+
+@media (max-width: 480px) {
+  body {
+    padding-left: 80px;
+  }
+}
