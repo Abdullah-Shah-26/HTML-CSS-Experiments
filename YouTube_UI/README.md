@@ -1,6 +1,6 @@
 # YouTube Homepage UI 
 
-✨ A simple YouTube homepage UI built with **HTML & CSS**.  
+✨ A simple YouTube homepage UI built with **HTML & CSS**
 ✨ Focus: practicing layouts with Flexbox & Grid.  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -9,6 +9,7 @@
 
 
 ## 🚀 Live Demo
+(Desktop/Tablet preview only)
 - [View on Vercel](https://youtubeui-nu.vercel.app/)
 
 ## 📂 Project Structure
