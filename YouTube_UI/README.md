@@ -15,7 +15,7 @@
 - Practice **Flexbox** for responsive layouts  
 - Understand **CSS Grid** for video gallery  
 - Learn **basic project structuring** for scalability
-- 
+  
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3
