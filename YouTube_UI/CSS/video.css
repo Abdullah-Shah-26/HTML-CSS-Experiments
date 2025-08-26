@@ -22,10 +22,20 @@
 @media (max-width: 480px) {
   .video-grid,
   .video-gridx {
-    grid-template-columns: repeat(2, minmax(140px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     column-gap: 8px;
-    row-gap: 20px;
-    padding: 10px;
+    row-gap: 16px;
+    padding: 6px;
+  }
+  .video-title {
+    font-size: 15px;
+  }
+  .video-author, .video-stats {
+    font-size: 12px;
+  }
+  .profile-picture {
+    width: 32px;
+    height: 32px;
   }
 }
 
