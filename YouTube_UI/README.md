@@ -24,8 +24,11 @@
 - CSS3
 
 ## ✨Credits 
-- This UI was built by following **SuperSimpleDev's** Tutorial & MDN Web Docs (https://developer.mozilla.org/en-US/). Not an original project just for practice. 
+- This UI was built by following **SuperSimpleDev's**  & MDN Web Docs (https://developer.mozilla.org/en-US/). Not an original project just for practice. 
 
 ## 📸 Preview
 ![UI Preview](./Thumbnails/screenshot.png)
 
+<video src="Sweet_UI_Preview.mp4" controls width="500">
+  Your browser does not support the video tag.
+</video>
