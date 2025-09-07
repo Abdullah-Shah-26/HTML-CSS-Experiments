@@ -7,11 +7,15 @@ A simple & sweet UI showcasing popular Indian sweets, built using HTML & CSS.
 - Clean and minimal user interface
 
 
+
 ### Preview
+You can see preview images of the UI below:
+![alt text](image-1.png)
+![alt text](image.png)
 
-You can watch a preview video of the website below.
 
-<video src="Sweet_UI_Preview.mp4" controls width="600"></video>
+
+
 
 
 
