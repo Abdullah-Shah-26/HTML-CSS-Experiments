@@ -28,7 +28,3 @@
 
 ## 📸 Preview
 ![UI Preview](./Thumbnails/screenshot.png)
-
-<video src="Sweet_UI_Preview.mp4" controls width="500">
-  Your browser does not support the video tag.
-</video>
